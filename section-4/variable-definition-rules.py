@@ -25,6 +25,13 @@ Bu Kelimeler:
 
 
 # Geçerli Tanımlar
+# Snake Case
+first_name = "Ayhan" # Snake case kullanılırken kültürel olarak tüm harfler küçük olur ve kelimeler arasına alt çizgi(_) konulur pythonda oldukça yaygın bir kullanımdır.
+print(first_name) # Output: Ayhan
+
+First_Name = "Ali" # Kullanıla bilir ama kültürel açıdan yukarıdaki örnek daha yaygın kullanılır.
+print(First_Name)
+
 
 # Case Sensitive -> Büyük/Küçük harf duyarlılığı 
 # değişkenler küçük büyük harf duyarlıdır. Aşağıdaki değişkenler aslında bir birinden farklı değişkenlerdir
