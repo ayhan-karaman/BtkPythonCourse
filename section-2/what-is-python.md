@@ -1,6 +1,6 @@
 # Python Nedir?
 
-<a href="https://www.python.org/">Python</a>, yüksek seviyeli, okunabilirliği yüksek ve çok amaçlı bir programlama dilidir. 1991 yılında <a href="https://tr.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a> geliştirilmiştir.
+<a href="https://www.python.org/">Python</a>, yüksek seviyeli, okunabilirliği yüksek ve çok amaçlı bir programlama dilidir. 1991 yılında <a href="https://tr.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a> tarafından geliştirilmiştir.
 
 
 #  Temel Özellikleri

@@ -1,0 +1,1 @@
+print("Merhaba BTK Akademi and Sadık Turan")
